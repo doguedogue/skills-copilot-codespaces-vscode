@@ -1,3 +1,4 @@
+/*
 const express = require('express');
 const router = express.Router();
 const commentsCtrl = require('../controllers/comments');
@@ -11,3 +12,4 @@ router.get('/:id/edit', commentsCtrl.edit);
 router.put('/:id', commentsCtrl.update);
 
 module.exports = router;
+*/
